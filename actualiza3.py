@@ -10,7 +10,7 @@ def actualizar():
     xls = r'C:\Users\Usuario\Desktop\Solid2023\Excel Juan\REAPROVISIONAMIENTO_DEF.xlsm'
 
     # Dolibarr REAL
-    api_key = 'clave_api123'
+    api_key = 'apikey'
     url = "https://intranet.solidsoft-tray.com/api/index.php/" 
 
     # Dolibarr DEMO
