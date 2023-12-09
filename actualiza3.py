@@ -14,7 +14,7 @@ def actualizar():
     url = "https://intranet.solidsoft-tray.com/api/index.php/" 
 
     # Dolibarr DEMO
-    # api_key = 'nLBE1J8Tts3q99zy1B5VXl79SznAU6dl'
+    # api_key = 'apikey'
     # url = 'http://localhost/dolibarr/api/index.php/'
 
     # PREPARA LOS DATOS 
