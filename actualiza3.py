@@ -10,11 +10,11 @@ def actualizar():
     xls = r'C:\Users\Usuario\Desktop\Solid2023\Excel Juan\REAPROVISIONAMIENTO_DEF.xlsm'
 
     # Dolibarr REAL
-    api_key = 'apikey'
+    api_key = 'insert_api_key'
     url = "https://intranet.solidsoft-tray.com/api/index.php/" 
 
     # Dolibarr DEMO
-    # api_key = 'apikey'
+    # api_key = 'insert_api_key'
     # url = 'http://localhost/dolibarr/api/index.php/'
 
     # PREPARA LOS DATOS 
